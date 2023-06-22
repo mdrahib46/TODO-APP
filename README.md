@@ -21,10 +21,6 @@ This is a simple TODO app built using Flutter.
 - Tap the pencil icon to edit a TODO item.
 - Tap the trash icon to delete a TODO item.
 
-## Screenshots
-
-Add any relevant screenshots or GIFs showcasing the app's functionality.
-
 ## Contributing
 
 Contributions are welcome! If you have any suggestions or improvements, feel free to create a pull request.
